@@ -10,7 +10,10 @@ A passionate data scientist from India
 ⚡ Fun fact I think I am funny
 
 ## Connect with me:
-
+<p align="left">
+<a href="(https://www.linkedin.com/in/tomeshwar-selukar-bb33bb231)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomeshwar Selukar" height="30" width="40" /></a>
+<a href="https://instagram.com/sevn_prajwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sevn_prajwal" height="30" width="40" /></a>
+</p>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomeshwar-selukar-bb33bb231)    [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejas_selukar?igsh=eHp1a3UxYTBwY3p4)
 
 ## 🛠 Skills
